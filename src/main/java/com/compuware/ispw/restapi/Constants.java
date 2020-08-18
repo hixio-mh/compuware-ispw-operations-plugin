@@ -36,5 +36,5 @@ public class Constants {
 	public static final String ENV_VAR_MASTER = "master";
 	public static final String ENV_VAR_NODENAME = "NODE_NAME";
 	
-	public static final String TTT_CHANGESET = "changedProgram.json";
+	public static final String TTT_CHANGESET = "changedPrograms.json";
 }
